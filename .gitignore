@@ -1,0 +1,12 @@
+# Dependências do Node
+node_modules/
+
+# Variáveis de Ambiente (Segurança máxima)
+.env
+
+# Sessão e Cache do WhatsApp
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Pasta de build do TypeScript
+dist/
