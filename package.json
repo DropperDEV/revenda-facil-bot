@@ -18,6 +18,7 @@
     "@types/node-cron": "^3.0.11",
     "@types/qrcode-terminal": "^0.12.2",
     "tsup": "^8.5.1",
+    "tsup": "^8.5.1",
     "tsx": "^4.21.0",
     "typescript": "^6.0.2"
   },
